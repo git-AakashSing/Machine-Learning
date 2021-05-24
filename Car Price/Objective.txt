@@ -1,0 +1,2 @@
+A general project to build a model to predict car price based on independent features using Advanced Regression techniques.
+                                                    Ridge + Lasso
